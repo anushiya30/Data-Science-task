@@ -13,3 +13,23 @@ The dataset is split into training and testing sets using train-test split.
 A machine learning classification model is trained and evaluated.
 
 Implemented using Python and Jupyter Notebook.
+
+📊 Dataset
+
+Iris Flower Dataset
+
+Public and commonly used machine learning dataset
+
+🔧 Tools & Libraries
+
+Python
+
+NumPy
+
+Pandas
+
+Matplotlib / Seaborn
+
+Scikit-learn
+
+Jupyter Notebook
